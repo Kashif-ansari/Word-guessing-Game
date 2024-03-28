@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Project_Hangman
-build_property.ProjectDir = C:\Users\KASHIF ANSARI\MKashif Ansari\PAFKIET\SEMESTER 1 B spring\PF THEORY\project\Project Hangman\Project Hangman\
+build_property.ProjectDir = C:\Users\mkash\MKashif Ansari\git hub\PF THEORY\project\Word-guessing-Game\Project Hangman\Project Hangman\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

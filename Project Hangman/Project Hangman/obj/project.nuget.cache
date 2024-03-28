@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TExyhhAiNsCMqOlE54OCMz+8F28iDyzzoGo4NlGoc82P1rgXYDHfiah1aqTHaSX88UHaKtk1JeKWibkC2xzfVg==",
+  "dgSpecHash": "LovcWc9R9alOSzL5Dd8YYIQ6dATdq7tfv53m5FIqm2Sw+zVEF6qrnYWOTF0+t5/80xuHbrQUpxuor1zqrxWtGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KASHIF ANSARI\\MKashif Ansari\\PAFKIET\\SEMESTER 1 B spring\\PF THEORY\\project\\Project Hangman\\Project Hangman\\Project Hangman.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mkash\\MKashif Ansari\\git hub\\PF THEORY\\project\\Word-guessing-Game\\Project Hangman\\Project Hangman\\Project Hangman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkash\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mkash\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mkash\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mkash\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
